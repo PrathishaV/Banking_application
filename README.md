@@ -34,12 +34,11 @@ Navigate to the project directory:
 cd streamlit-banking-app Run the application:
 streamlit run app.py
 Open the URL provided in the terminal to access the application.
-How to Use :- 1.Sign Up:
-
-Enter your details to create a new account.
-A minimum balance of 1000 is required. 2.Login:
-Use your account number and password to log in. 3.Banking Operations:
-Choose an option (Deposit, Withdraw, Check Balance) from the radio button menu.
+How to Use :- 
+1.Sign Up:Enter your details to create a new account.
+A minimum balance of 1000 is required. 
+2.Login:Use your account number and password to log in.
+3.Banking Operations:Choose an option (Deposit, Withdraw, Check Balance) from the radio button menu.
 Follow the instructions to complete your operation.
 Future Improvements :-
 
